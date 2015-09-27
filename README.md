@@ -2,9 +2,9 @@
 
 ## Task
 
-Display using AngularJs & Ionic framework the following:
+Build a mobile project with PhoneGap / Cordova which supports the following:
  - A screen contining the a list of the JSON data (supplied below)
- - A screen to add / remove new items to the list and also a way for the user to view an existing item
+ - A screen to add / remove new items to the list and also a way for the user to view an item
 
 Please consume the below JSON service for the data:
 
